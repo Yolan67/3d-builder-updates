@@ -1,0 +1,30 @@
+{
+  "version": "1.2.2",
+  "date": "2026-11-26T19:16:29.066Z",
+  "files": [
+    {
+      "name": "3D-Builder-Setup.exe",
+      "bytes": 114079506,
+      "sha256": "0984f03e344924d6a38318f2de43f60028f6fcae908306627462acc8591c2673",
+      "url": "https://github.com/Yolan67/3d-builder-updates/releases/download/v1.2.2/3D-Builder-Setup.exe",
+      "signed": false,
+      "signer": ""
+    },
+    {
+      "name": "3D-Builder-Portable.zip",
+      "bytes": 147581452,
+      "sha256": "6a198014f6653f8bb4ba0ff44e7ecc41d8e59382ca87a24f4713c7a500becf54",
+      "url": "https://github.com/Yolan67/3d-builder-updates/releases/download/v1.2.2/3D-Builder-Portable.zip",
+      "signed": false,
+      "signer": ""
+    },
+    {
+      "name": "3D-Builder.exe",
+      "bytes": 103775529,
+      "sha256": "3cc125906588b55535ef0a6a6111c18f3ddd72e69965c0878010c08843f10f0f",
+      "url": "https://github.com/Yolan67/3d-builder-updates/releases/download/v1.2.2/3D-Builder.exe",
+      "signed": false,
+      "signer": ""
+    }
+  ]
+}
